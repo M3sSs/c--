@@ -4,5 +4,6 @@ int main()
 {
     cout<<"hello world\n";
     cout<<"create world\n";
+    cout<<"world\n";
     return 0;
 }
